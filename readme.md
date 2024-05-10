@@ -64,10 +64,15 @@ Você precisa criar no VScode um arquivo com o nome '.env', e colocar nele uma v
 :small_blue_diamond: <strong style="font-size:24px;">Dependências</strong>
 
 <strong style="font-size:18px;">google.generativeai:</strong> Biblioteca que fornece acesso à [API do Gemini AI.](https://ai.google.dev/gemini-api/docs/get-started/python)  
+
 <strong style="font-size:18px;">pyperclip:</strong> Utilizada para acessar o conteúdo da área de transferência.  
+
 <strong style="font-size:18px;">io:</strong> Utilizada para operações de entrada/saída.  
+
 <strong style="font-size:18px;">csv:</strong> Biblioteca para manipulação de arquivos CSV.  
+
 <strong style="font-size:18px;">os:</strong> Usada para acessar variáveis de ambiente.  
+
 <strong style="font-size:18px;">dotenv:</strong> Biblioteca para carregar variáveis de ambiente de um arquivo .env.  
 
 É necessário instalar separadamente as seguintes depêndencias, basta colar no terminal:  
