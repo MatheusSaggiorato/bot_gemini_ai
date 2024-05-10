@@ -3,7 +3,7 @@ Gerador de flashcards para o Anki Pro com API do Gemini
 </h1>
 
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
 ### Tópicos 
@@ -28,7 +28,7 @@ Gerador de flashcards para o Anki Pro com API do Gemini
 # Funcionalidades
 
 :heavy_check_mark: Antes de rodar o código, caso seu texto já não esteja assim, recomendo que peça antes para uma I.A como o Gemini, resumi-lo previamente, isso ajuda muito com que o código retorne bons flashcards. 
-:heavy_check_mark: Este script Python foi desenvolvido para automatizar a geração de flashcards no formato CSV utilizando a API do Gemini AI.  
+:heavy_check_mark: Este script Python foi desenvolvido para automatizar a geração de flashcards no formato CSV utilizando a API do Gemini AI.    
 :heavy_check_mark: Salva o conteúdo em um arquivo CSV chamado 'flashcards.csv.'  
 :heavy_check_mark: Exibe uma mensagem no console indicando o sucesso da operação e o local onde o arquivo CSV foi salvo.  
 :heavy_check_mark: Nem sempre será gerado um arquivo como queremos, isso se deve aos modelos de I.A. que incluem componentes de aleatoriedade em seus processos de geração de texto, o que pode levar a respostas diferentes, mesmo com o mesmo prompt. Se a resposta não sair como o esperado, basta tentar novamente 
@@ -54,7 +54,7 @@ Você precisa criar no VScode um arquivo com o nome '.env', e colocar nele uma v
 
 ![Arquivo .env e variável de ambiente](images/false-key.png)
 
-:small_blue_diamond: <strong style="font-size:18px;">Dependências</strong>  
+:small_blue_diamond: <strong style="font-size:32px;">Dependências</strong>  
 <strong style="font-size:18px;">google.generativeai:</strong> Biblioteca que fornece acesso à [API do Gemini AI.](https://ai.google.dev/gemini-api/docs/get-started/python)  
 <strong style="font-size:18px;">pyperclip:</strong> Utilizada para acessar o conteúdo da área de transferência.  
 <strong style="font-size:18px;">io:</strong> Utilizada para operações de entrada/saída.  
