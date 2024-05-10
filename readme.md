@@ -20,7 +20,8 @@ Gerador de flashcards para o Anki Pro com API do Gemini
 
 <p align="justify">
 
-[Artigos](https://drive.google.com/file/d/11smG-0uuOc8PU2Z0FMewuRjYac0XCmz-/view?usp=sharing) comprovam que o estudo por repetição espaçada é um dos mais eficazes quando se trata em não esquecer o conteúdo. Consiste em relembrar o que foi estudado, com flashcards resumidos, a cada certo periodo de tempo. No link a seguir tem uma ótima explicação sobre [repeticao espaçada.](https://www.freecodecamp.org/portuguese/news/como-utilizar-a-repeticao-espacada-com-o-anki-para-aprender-a-programar-mais-rapidamente/)
+[Artigos](https://drive.google.com/file/d/11smG-0uuOc8PU2Z0FMewuRjYac0XCmz-/view?usp=sharing) comprovam que o estudo por repetição espaçada é um dos mais eficazes quando se trata em não esquecer o conteúdo. Consiste em relembrar o que foi estudado, com flashcards resumidos, a cada certo periodo de tempo. No link a seguir tem uma ótima explicação sobre [repeticao espaçada.](https://www.freecodecamp.org/portuguese/news/como-utilizar-a-repeticao-espacada-com-o-anki-para-aprender-a-programar-mais-rapidamente/) 
+
 <strong style="font-size:18px;">Minha motivação</strong> para desenvolver esse pequeno projeto na imersão I.A da Alura, foi porque eu mesmo utilizo o Anki Pro para meus estudos, e precisava investir um certo tempo para criar os cards manuais quando o assunto é extenso. Como é possível importar cards em massa com o Anki, pensei em passar essa tarefa para a I.A, que pode me entregar o arquivo pronto em CSV.
 </p>
 
