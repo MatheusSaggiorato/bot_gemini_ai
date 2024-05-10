@@ -1,4 +1,3 @@
-#original 80 linhas
 import google.generativeai as genai
 import pyperclip
 import io
